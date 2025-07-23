@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color:#11111b;
+    background-color:#0e0e16;
 
 }
 
@@ -28,7 +28,7 @@ body {
 .input_box {
     border: none;
     border-radius: 15px !important;
-    background-color: #1e1e2e;
+    background-color: #181825;
     width: 30vw;
     color: #ced3e4;
     font-size: 19px;
